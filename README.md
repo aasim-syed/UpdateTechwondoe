@@ -26,8 +26,6 @@ Prettier and Linter configuration
 <a href="https://docs.google.com/document/d/1a7z8lrOZmmtNyzwwyliZ7xOqcn21NNQeK99mj5F37hQ/edit?usp=sharing">CLICK HERE🥳✨😊</a>
 
 
-<img src="/Images/1.png"></img>
-<img src="/Images/2.png"></img>
 ## AUDIO DISPLAY
 <img src="/Images/4.png"></img>
 ## ERROR MESSAGES (CUSTOM)
