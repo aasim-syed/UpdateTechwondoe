@@ -23,11 +23,6 @@ export const initialValues: ValidationSchema = {
     error: '',
     validate: 'email'
   },
-  gender: {
-    value: '',
-    error: '',
-    validate: 'select'
-  },
   date: {
     value: '',
     error: ''
