@@ -1,6 +1,6 @@
-# PROJECT FOR TECHWONDOE ✨✨✨
+# PROJECT FOR TECHWONDOE UPDATE✨✨✨
 
-TECHWONDOE-FRONTEND
+UPDATE TECHWONDOE-FRONTEND
 ### INTRO🐶❤️
 So, to begin with I am deeply thankful for you people for giving me this opportunity I have long been waiting for. I’ll always be grateful for you people.
 
