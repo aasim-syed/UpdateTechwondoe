@@ -10,14 +10,14 @@ import { AppContext } from '../Context'
 
 export default function SecondStep() {
   const { formValues, handleChange, handleBack, handleNext, variant, margin } = useContext(AppContext)
-  const { city, date, phone } = formValues
+  const { city, date} = formValues
 
   const isError = useCallback(
     () =>
-      Object.keys({ city, date, phone }).some(
+      Object.keys({ city, date }).some(
         (name) => (formValues[name].required && !formValues[name].value) || formValues[name].error
       ),
-    [formValues, city, date, phone]
+    [formValues, city, date]
   )
 
   return (
