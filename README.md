@@ -24,7 +24,7 @@ Prettier and Linter configuration
 
 ## Screen-Shots and more in Gdocs:
 <a href="https://docs.google.com/document/d/1a7z8lrOZmmtNyzwwyliZ7xOqcn21NNQeK99mj5F37hQ/edit?usp=sharing">CLICK HERE🥳✨😊</a>
-## FLOWDIAGRAM
+
 
 <img src="/Images/1.png"></img>
 <img src="/Images/2.png"></img>
