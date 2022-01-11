@@ -18,7 +18,7 @@ Prettier and Linter configuration
 
 ## STEPS
 --> DOWNLOAD OR CLONE THE REPO<br>
--->"npm install"<br>
+-->"yarn install"<br>
 -->"npm start" OR "yarn start"<br>
 #### Prefer yarn as its faster⚡⚡
 
